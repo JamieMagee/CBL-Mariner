@@ -1,7 +1,7 @@
 Summary:        A C binding to the X11 protocol
 Name:           libxcb
-Version:        1.13.1
-Release:        6%{?dist}
+Version:        1.14.1
+Release:        1%{?dist}
 License:        MIT
 Vendor:         Microsoft Corporation
 Distribution:   Mariner
